@@ -1,0 +1,2 @@
+# Cardiovascular-disease-prediction-Machine-Learning-
+The dataset consists of 70 000 records of patients data in 12 features, such as age, gender, systolic blood pressure, diastolic blood pressure, and etc. The target class "cardio" equals to 1, when patient has cardiovascular desease, and it's 0, if patient is healthy.  The task is to predict the presence or absence of cardiovascular disease (CVD) using the patient examination results
